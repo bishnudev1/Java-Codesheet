@@ -1,2 +1,5 @@
 # Java-Codesheet
-Basic Java Codesheet ( Oops will be uploaded later )
+Basic Java Codesheet 
+- Oops part will be uploaded shortly
+
+#Happy Coding !
