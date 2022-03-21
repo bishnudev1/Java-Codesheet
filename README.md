@@ -1,5 +1,5 @@
 # Java-Codesheet
 Basic Java Codesheet 
-- Oops part will be uploaded shortly
 
-#Happy Coding !
+# Happy Coding !
+- Oops part will be uploaded shortly
